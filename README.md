@@ -1,4 +1,4 @@
-# Fun-es
+# Funções
 criando_funcoes
 # VA = 5%
 #Esse comentário indica que o valor do Vale Alimentação (VA) é 5% do salário bruto.
